@@ -1,36 +1,27 @@
-# PyPazz 1.0
-
- > Overview for password generator
-
-  A random password generator is software program or hardware device that takes input from a random or pseudo-random number generator and automatically generates a password. Random passwords can be generated manually, using simple sources of randomness such as dice or coins, or they can be generated using a computer.
-
+# PyPazz 1.1
 
 > PyPazz Description
   
-  PyPazz is a password generator console app made in Python 3. This password generator is generate password according to your input character length of password. The generated password data will be send thru your gmail automatically.
+  PyPazz is a password generator console app that generates password according to your input password character length. The password generated
+  will send to your email. You can use PyPazz to generate password for your Social Media Accounts, WiFi and other security purposes that needs
+  password. To use this console app make sure you are connected to the internet. If you are not connected to the internet error will be 
+  thrown.
 
+> Version and Date Released
 
-> Library Used
+- Version 1.0 (July 17, 2022) 
+- Version 1.1 (New Update)
 
-- SMTPLIB
-- MIME MULTIPART
-- MIME TEXT
-- MIME BASE
-- ENCODERS
-- RE
-- GETPASS
+> What's new in PyPazz 1.1
 
+- New Library Added
+- Improved CLI
+- Bugs Fixed in Exit Function
 
-> Programming Language
+> Developer
 
-Python 3.10.5
-
+Veruz Ceyenne
 
 > For suggestions and feedback
 
-GMAIL : veruzruxceyenne@gmail.com
-
- 
-
-
-
+Contact Me : veruzruxceyenne@gmail.com
